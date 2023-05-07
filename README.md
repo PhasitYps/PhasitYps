@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer science - rangsit university and android developer
 -----------------------------------------------------------
 
-I've been learning Android coding for 3 years and I've brought my knowledge to get 4 freelance jobs and now I'm looking for a internship. For the position of Software Developer, Android
+I've been learning Android coding for 3 years and I've brought my knowledge to get 4 freelance jobs and now I'm looking for a co-operative education. For the position of Software Developer, Android
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [phasit.yps@gmail.com](mailto:phasit.yps@gmail.com)
