@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Phasit Yaprasat
 =======================================================================================================================================
 
-Computer Science - Rangsit University and Android Developer
+Computer Science - Rangsit University, Android Developer
 -----------------------------------------------------------
 
 I've been learning Android coding for 3 years and I've brought my knowledge to get 5 freelance jobs for 4 app and 1 web and now I'm looking for a co-operative education. For the position of Software Engineer, Android
