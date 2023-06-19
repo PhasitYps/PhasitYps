@@ -43,7 +43,7 @@ I've been learning Android coding for 3 years and I've brought my knowledge to g
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/profile.php?id=100010543128184" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/PhasitYps" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/PhasitYps" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
