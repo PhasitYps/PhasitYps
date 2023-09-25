@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science - Rangsit University
 -----------------------------------------------------------
 
-I've been learning Android coding for 3 years and I've brought my knowledge to get 5 freelance jobs for 4 app and 1 web and now I'm looking for a co-operative education. For the position of Android Developer Kotlin
+I've been learning Android coding for 3 years and I've brought my knowledge to get 5 freelance jobs for 5 app and 1 web (Next JS) and now I'm looking for a co-operative education. For the position of Android Developer Kotlin
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [phasit.yps@gmail.com](mailto:phasit.yps@gmail.com)
