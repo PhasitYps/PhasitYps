@@ -1,60 +1,92 @@
 # 👋 Hi, I'm Phasit Yaprasat
 
-🎓 **Computer Science Student @ Rangsit University**  
-📍 **Bangkok, Thailand**  
-📱 Passionate in Android & Flutter Development  
-🔍 Looking for a **Co-operative Education / Internship** as an **Android Developer (Kotlin)**
+🎓 **Computer Science Graduate from Rangsit University**  
+📍 **Based in Bangkok, Thailand**  
+💼 Front-end Developer specialized in **Flutter** and **Next.js**  
+🚀 Open to new opportunities in **Flutter** or **Next.js** development
 
 📬 **Contact:** [phasit.yps@gmail.com](mailto:phasit.yps@gmail.com)
 
 ---
 
-## 🚀 Summary
+## 🚀 About Me
 
-With over 3 years of hands-on experience in Android and cross-platform development, I’ve delivered 6 freelance projects — including 5 mobile apps and 1 full-stack web app. I specialize in building modern, scalable apps using **Kotlin**, **Flutter**, and **Firebase**, and I’m currently exploring advanced web development with **Next.js** and DevOps via **GitHub Actions**.
+With 1 year of professional experience and a 4-month internship in mobile and web development, I’ve worked on 6 freelance projects (5 mobile apps, 1 full-stack web app). I’m passionate about building clean and performant user interfaces using **Flutter** and **Next.js**. I enjoy solving problems, collaborating with teams, and continuously improving my skills in modern front-end frameworks.
 
 ---
-
 ## 💼 Skills & Technologies
 
-### 👨‍💻 Languages & Frameworks
+### 📱 Mobile Development (Flutter & Kotlin Android)
 
-- **Mobile:** Kotlin, Java, Flutter, GetX, React Native
-- **Web:** Next.js (Client & Server), TypeScript, JavaScript
-- **Backend:** Node.js (Next.js server side), Firebase Functions
-- **Authentication:** Firebase Authentication, NextAuth, JWT
-- **Databases:** Firestore, Realtime Database, SQLite, SharedPreferences
-- **Visualization:** Google Maps SDK, TradingView
-
-### 🎨 UI Libraries & Design Systems
-
-- Tailwind CSS
-- Ant Design
-- Shadcn UI
-
-### ⚙️ Tools & DevOps
-
-- **CI/CD:** GitHub Actions
-- **IDEs:** VS Code, Android Studio, Xcode
-- **Testing:** Postman
-- **Design & Project Management:** Figma, Jira, Slack, Zep
-- **Simulators:** Android Emulator, iOS Simulator
+- **Languages & Frameworks:** Flutter, Dart, Kotlin, Java, React Native
+- **Architecture & Patterns:** MVVM (Model, GetxController, Widget), GetX (GetxController, Rx types, Obx, GetBuilder, GetMaterialApp) 
+- **UI Widgets:** Stateless & Stateful Widgets, ListView, Custom Dialogs, Bottom Sheet Dialogs and other
+- **Device Communication:** Bluetooth Low Energy (BLE), Usb SDK (Smart Card Reader)  
+- **Local Storage:** Shared Preferences, SQLite  
+- **Visualization SDKs:** Google Maps SDK
 
 ---
 
-## 📊 GitHub Stats
+### 💻 Web Development (Next.js & React)
 
-![PhasitYps's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhasitYps&show_icons=true&theme=default&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhasitYps&layout=compact)
+- **Frameworks & Languages:** Next.js (Client & Server), TypeScript, JavaScript  
+- **React Concepts:** useEffect, useState, useCallback, useMemo, useRef, React.memo, Custom Hook, 
+- **Routing:** Pages Router, App Router (Next.js)  
+- **Styling & UI Systems:** Tailwind CSS, Ant Design (SKR Backoffice Web), Shadcn UI (Cryto Trade Web, Backoffice for Cryto Trade Web, NACC Website) 
+- **Web Storage:** LocalStorage, SessionStorage, Cookies 
+- **Visualization SDKs:** TradingView Lightweight Charts library
 
 ---
 
-## 🔗 Connect with Me
+### 🔧 Backend & APIs
 
-- GitHub: [PhasitYps](https://github.com/PhasitYps)
+- **Languages & Frameworks:** Node.js (Next.js API routes), Firebase Functions  
+- **Authentication:** Firebase Authentication, NextAuth, JWT  
+- **Real-time Communication:** WebSocket  
+- **Cloud Storage & Databases:**  
+  - Firestore  
+  - Firebase Realtime Database  
+  - Firebase Storage
+
+---
+
+### 🛠 Tools & DevOps
+
+- **CI/CD:** GitHub Actions  
+- **IDEs & Simulators:** VS Code, Android Studio, Xcode, Android Emulator, iOS Simulator  
+- **Testing & API Debugging:** Postman  
+- **Design & Collaboration:** Figma, Jira, Slack, Zep
+
+---
+
+## 📱 Published Apps
+
+<table>
+  <tr>
+    <td width="120">
+      <img src="https://play-lh.googleusercontent.com/zMARYTYOuPh2jzpelXrIx9ff3E858X1qzXEQfMf7Y5wM-6JOPGVo-Xxn49difXNJ638=w480-h960-rw" width="64" />
+    </td>
+    <td>
+      <b><a href="https://play.google.com/store/apps/details?id=com.gis.map.survey.gmaps&hl=th">GMapper</a></b><br/>
+      It is a land measurement and distance measurement application as a team.
+    </td>
+  </tr>
+  <tr>
+    <td width="120">
+      <img src="https://play-lh.googleusercontent.com/LzGkU9oVfmzoZ4NW4cG8ttSBc1i3tKeE6stUldoTUWRSw3KafEDvIP0_MeSRHZW6GWM=w480-h960-rw" width="64" />
+    </td>
+    <td>
+      <b><a href="https://play.google.com/store/apps/details?id=com.phasit.rupost&hl=th">RuPost</a></b><br/>
+      It is an application for sharing daily event coordinates.
+    </td>
+  </tr>
+</table>
+
+---
+
+
+## 🔗 Let's Connect
+
+- GitHub: [PhasitYps](https://github.com/PhasitYps)  
 - Email: [phasit.yps@gmail.com](mailto:phasit.yps@gmail.com)
-
----
-
-> *“Strive not to be a success, but rather to be of value.” – Albert Einstein*
 
