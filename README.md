@@ -31,7 +31,8 @@ With 1 year of professional experience and a 4-month internship in mobile and we
 - **Frameworks & Languages:** Next.js, TypeScript, JavaScript
 - **Styling & UI Systems:** Tailwind CSS, Ant Design, Shadcn UI
 - **Visualization SDKs:** TradingView Lightweight Charts library
-
+- **Others:** Redux, React Query, Axios, NextAuth, Next API Route
+  
 ---
 
 ### 🔧 Backend & APIs
