@@ -2,8 +2,7 @@
 
 🎓 **Computer Science Graduate from Rangsit University**  
 📍 **Based in Bangkok, Thailand**  
-💼 Front-end Developer specialized in **Flutter** and **Next.js**  
-🚀 Open to new opportunities in **Flutter** or **Next.js** development
+💼 Front-end Developer specialized in **Flutter** and **Next.js** 
 
 📬 **Contact:** [phasit.yps@gmail.com](mailto:phasit.yps@gmail.com)
 
