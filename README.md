@@ -29,11 +29,8 @@ With 1 year of professional experience and a 4-month internship in mobile and we
 
 ### 💻 Web Development (Next.js & React)
 
-- **Frameworks & Languages:** Next.js (Client & Server), TypeScript, JavaScript  
-- **React Concepts:** useEffect, useState, useCallback, useMemo, useRef, React.memo, Custom Hook, 
-- **Routing:** Pages Router, App Router (Next.js)  
-- **Styling & UI Systems:** Tailwind CSS, Ant Design (SKR Backoffice Web), Shadcn UI (Cryto Trade Web, Backoffice for Cryto Trade Web, NACC Website) 
-- **Web Storage:** LocalStorage, SessionStorage, Cookies 
+- **Frameworks & Languages:** Next.js, TypeScript, JavaScript
+- **Styling & UI Systems:** Tailwind CSS, Ant Design, Shadcn UI
 - **Visualization SDKs:** TradingView Lightweight Charts library
 
 ---
